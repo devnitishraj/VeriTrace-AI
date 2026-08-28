@@ -1,0 +1,25 @@
+# Python
+backend/venv/
+venv/
+__pycache__/
+*.pyc
+
+# Node / React
+frontend/node_modules/
+node_modules/
+frontend/dist/
+dist/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Uploads / generated files
+backend/uploads/
+uploads/
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
