@@ -4,6 +4,9 @@
 
 VeriTrace AI is a digital media forensic analysis and verification system designed to analyze uploaded media and provide a forensic risk assessment.
 
+## Developer
+Created by Nitish Raj
+
 ## Features
 
 - 🎥 Video upload and analysis
